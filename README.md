@@ -1,8 +1,8 @@
-<h1>❤️ Hey there!</h1>
+<h1>❤️ Bem-Vindo!</h1>
 
 <img src="https://pa1.aminoapps.com/6552/d2cf5f09784f4f98088ba1ba4e831cb23ddb2606_hq.gif" width="250" align="right">
 
-<h3>:globe_with_meridians: Talk to me:</h3>
+<h3>:globe_with_meridians: Entre em contato:</h3>
 
 <p>
     <a href="https://www.linkedin.com/in/j%C3%BAlia-rosado/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=FF69B4"></img></a>&nbsp;
@@ -10,7 +10,7 @@
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=juliamariahhr@gmail.com&su=SUBJECT&body=BODY&bcc=juliamariahhr@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=FF69B4"></img></a>&nbsp;
 </p>
 
-<h3>👩🏻‍💻 Softwares I've already worked with:</h3>
+<h3>👩🏻‍💻 Softwares que estou estudando:</h3>
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=FF69B4"></img>&nbsp;

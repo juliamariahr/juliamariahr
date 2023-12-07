@@ -2,7 +2,7 @@
 
 <img src="https://camo.githubusercontent.com/7749b56a18ab6fcd58242d9339369c61df0bf20af8431b5d9a5a2d2b14e61f0a/68747470733a2f2f692e696d6775722e636f6d2f56707a644156512e676966" width="250" align="right">
 
-<h3>:globe_with_meridians: Entre em contato:</h3>
+<h3>🌐Entre em contato:</h3>
 
 <p>
     <a href="https://www.linkedin.com/in/j%C3%BAlia-rosado/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=FF69B4"></img></a>&nbsp;

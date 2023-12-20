@@ -25,6 +25,7 @@
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamariahr&theme=dark&hide_border=true&text_color=FF69B4&icon_color=E30B5C&hide=prs,issues&custom_title=Júlia&nbsp;Maria's&nbsp;GitHub&nbsp;Stats&hide_rank=true&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamariahr&theme=dark&hide_border=true&show_icons=true&layout=compact)](https://github.com/juliamariahr/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamariahr&theme=dark&hide_border=true&text_color=FF69B4&icon_color=E30B5C&hide=prs,issues&custom_title=Júlia&nbsp;Maria's&nbsp;GitHub&nbsp;Stats&hide_rank=true&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamariahr&theme=dark&hide_border=true&text_color=FF69B4&icon_color=E30B5C&hide=prs,issues&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp&hide_rank=true&show_icons=true&layout=compact)
 
 </div>

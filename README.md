@@ -7,7 +7,6 @@
 
 <p>
     <a href="https://www.linkedin.com/in/j%C3%BAlia-rosado/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=FF69B4"></img></a>&nbsp;
-    <a href="https://www.instagram.com/ttjuh/"><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=FF69B4"></img></a>&nbsp;
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=juliamariahhr@gmail.com&su=SUBJECT&body=BODY&bcc=juliamariahhr@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=FF69B4"></img></a>&nbsp;
 </p>
 

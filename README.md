@@ -17,12 +17,13 @@
     <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/Flask-151515?style=for-the-badge&logo=flask&logoColor=FF69B4"></img>&nbsp
-    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/Node.JS-151515?style=for-the-badge&logo=node.js&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=FF69B4"></img>&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=FF69B4"></img>&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=FF69B4"></img>&nbsp;
 </p>
 
 <br>

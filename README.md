@@ -10,7 +10,7 @@
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=juliamariahhr@gmail.com&su=SUBJECT&body=BODY&bcc=juliamariahhr@gmail.com&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=FF69B4"></img></a>&nbsp;
 </p>
 
-<h3>👩🏻‍💻 Softwares que estou estudando:</h3>
+<h3>👩🏻‍💻 O que estou estudando:</h3>
 
 <p>
     <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=FF69B4"></img>&nbsp;

@@ -24,11 +24,14 @@
     <img src="https://img.shields.io/badge/Node.JS-151515?style=for-the-badge&logo=node.js&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/MongoDB-151515?style=for-the-badge&logo=mongodb&logoColor=FF69B4"></img>&nbsp;
-    <img src="https://img.shields.io/badge/Redis-151515?style=for-the-badge&logo=redis&logoColor=FF69B4"></img>&nbsp;
+    <img src="https://img.shields.io/badge/ReactNative-151515?style=for-the-badge&logo=reactnative&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-151515?style=for-the-badge&logo=mysql&logoColor=FF69B4"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Postgresql-151515?style=for-the-badge&logo=postgresql&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/npm-151515?style=for-the-badge&logo=npm&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/Vercel-151515?style=for-the-badge&logo=vercel&logoColor=FF69B4"></img>&nbsp;
     <img src="https://img.shields.io/badge/Figma-151515?style=for-the-badge&logo=figma&logoColor=FF69B4"></img>&nbsp;
+    <img src="https://img.shields.io/badge/Firebase-151515?style=for-the-badge&logo=firebase&logoColor=FF69B4"></img>&nbsp;
+    <img src="https://img.shields.io/badge/DBeaver-151515?style=for-the-badge&logo=dbeaver&logoColor=FF69B4"></img>&nbsp;
 </p>
 
 <br>

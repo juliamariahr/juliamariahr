@@ -38,10 +38,11 @@
 
 <br>
 
-<div>
+<div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamariahr&theme=dark&hide_border=true&text_color=FF69B4&icon_color=E30B5C&hide=prs,issues&custom_title=Júlia&nbsp;Maria's&nbsp;GitHub&nbsp;Stats&hide_rank=true&show_icons=true) 
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juliamariahr&theme=dark&icon_color=E30B5C&text_color=FF69B4&show_icons=true&hide_border=true&count_private=true" />
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamariahr&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
 </div>
 

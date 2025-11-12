@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juliamariahr&theme=rose&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=juliamariahr&theme=rose&hide_border=true&include_all_commits=true" />
   
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamariahr&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 

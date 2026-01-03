@@ -29,6 +29,3 @@
 </div>
 
 <h4>🌸 Acesse meus projetos acadêmicos nos repositórios pinados abaixo!</h4>
-
----
-[![](https://visitcount.itsvg.in/api?id=juliamariahr&icon=7&color=5)](https://visitcount.itsvg.in)

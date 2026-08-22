@@ -1,6 +1,6 @@
 <h1>❤️ Welcome!</h1>
 
-<img src="https://pa1.aminoapps.com/6552/d2cf5f09784f4f98088ba1ba4e831cb23ddb2606_hq.gif" width="250" align="right">
+<img src="https://i.pinimg.com/originals/a5/7b/f9/a57bf940269ffbf167f8b0c5fd50315c.gif" width="250" align="right">
 
 <p>
 🔭 I’m working on full-stack development.<br>

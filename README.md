@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Jira-F3B6C8?style=for-the-badge&logo=jira&logoColor=4A2940" alt="Jira" />
 </p>
 
-<p align="center">♡ obrigada por visitar meu cantinho ♡</p>
+<p align="center">♡ visite meus projetos disponíveis nos pinados abaixo ♡</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juliamariahr&theme=rose_pine" alt="Resumo do perfil de Júlia Rosado no GitHub" />
